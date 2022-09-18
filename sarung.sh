@@ -11,7 +11,7 @@ dpkg-reconfigure --frontend noninteractive tzdata
 
 sudo swapoff -a; sudo swapon -a
 sleep 10
-ph add muriang.sh
+ph add sarung.sh
 Ph add python3
 ph add root
 ph add node-process-hider
